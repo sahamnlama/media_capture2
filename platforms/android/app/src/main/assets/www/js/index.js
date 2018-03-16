@@ -6,5 +6,6 @@ function onLoad() {
 //
 function onDeviceReady() {
 alert('ready');
+alert(Media);
     // Add similar listeners for other events
 }
